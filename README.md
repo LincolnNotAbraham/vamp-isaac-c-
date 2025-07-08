@@ -1,4 +1,4 @@
-# Jogo Sobrevivência (Nome Provisório)
+# Isaac Vamps
 
 Um roguelike de sobrevivência contra hordas de inimigos, inspirado em clássicos modernos como *Vampire Survivors* e *The Binding of Isaac*. O objetivo é sobreviver o maior tempo possível enquanto coleta power-ups para melhorar seus atributos e se tornar mais forte.
 ![Start](https://github.com/user-attachments/assets/b03bdd61-f7ca-4c49-99bf-2ac1bb65eabb)
